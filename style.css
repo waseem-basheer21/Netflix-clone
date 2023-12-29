@@ -1,0 +1,560 @@
+* {
+  margin: 0;
+  padding: 0;
+  a {
+    text-decoration: none;
+    color: white;
+  }
+}
+
+.header {
+  height: auto;
+  border: 1px solid black;
+  background-image: url("/images/wp11907308-lucifer-art-wallpapers.jpg");
+  background-size: cover;
+}
+
+.header1 {
+  border-radius: 25px;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons {
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn1 {
+  background-color: red;
+  color: white;
+  padding: 7px 10px;
+  border-radius: 5px;
+  margin-right: 50px;
+}
+
+.lang {
+  color: white;
+  padding: 10px 15px;
+  border-radius: 9px;
+  background-color: #092635;
+
+  margin-right: 20px;
+}
+
+.logo img {
+  height: 80px;
+}
+
+.logo {
+  margin-left: 60px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.text > * {
+  color: white;
+}
+
+.p-tag {
+  font-size: 3rem;
+  padding: 10px 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.p2-tag {
+  font-size: 2.7rem;
+  padding: 10px 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.p3-tag {
+  color: white;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 108px 0 187px 0;
+
+}
+
+.btn2 {
+  background-color: #ff9209;
+  color: white;
+  padding: 5px 9px;
+  font-weight: bolder;
+  font-family: "Montserrat", sans-serif;
+}
+
+.mail-btn {
+  margin: 15px 0 15px 0;
+  padding: 5px 9px;
+  font-weight: bolder;
+  font-family: "Montserrat", sans-serif;
+}
+
+.mail-button {
+  margin-left: 10px;
+}
+
+.btn2:hover {
+  color: gray;
+  cursor: pointer;
+}
+
+.main {
+  border: 3px solid #092635;
+  height: auto;
+  background-color: black;
+}
+
+.main-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: auto;
+}
+
+.main-text > * {
+  margin-left: 50px;
+  color: white;
+  font-weight: bolder;
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.t {
+  height: 250px;
+}
+
+.tv {
+  margin:70px 70px 70px 0;
+}
+
+.main2 {
+  border: 3px solid #092635;
+  height: auto;
+  background-color: black;
+}
+
+.image-mobile {
+  height: 400px;
+ margin-bottom: 40px;
+}
+
+.main2-p1 {
+ 
+  color: white;
+  margin-right: 450px;
+  font-size: 2rem;
+  font-weight: bolder;
+  padding: 7px 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.main2-p2 {
+  padding: 7px 10px;
+  color: white;
+  margin-right: 450px;
+  font-weight: bolder;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.main2-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main3 {
+  border: 3px solid #092635;
+  height: auto;
+  color: white;
+  background-color: black;
+}
+
+.main3-ist-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.kids {
+  height: 400px;
+  padding-top: 30px;
+}
+
+.main3-p1 {
+  font-size: 4rem;
+  font-weight: bolder;
+  padding: 5px 7px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.main3-p2 {
+  font-size: 1rem;
+  padding: 5px 7px;
+  font-weight: bolder;
+  font-family: "Montserrat", sans-serif;
+}
+
+.bottom {
+  height: auto;
+  background-color: black;
+  border: 3px solid #092635;
+}
+
+.footer-div {
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.first {
+  padding: 12px 10px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 90px;
+}
+
+.second {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.third {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.fourth {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.a {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.b {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.c {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.d {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.e {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.f {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.g {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.h {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.i {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.j {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.k {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.l {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.m {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.n {
+  margin: 10px 0 10px 0;
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.o {
+  margin: 10px 0 10px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+@media (max-width: 768px) {
+  .header {
+    width: auto;
+    background-size: cover;
+  }
+
+  .header1 {
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .buttons {
+    margin: 0;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+  }
+  .logo img {
+    height: 40px;
+  }
+
+  .logo {
+    margin: 15px;
+  }
+  .text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+  }
+  .p-tag {
+    font-size: 20px;
+  }
+  .p2-tag {
+    font-size: 15px;
+  }
+  .p3-tag {
+    color: white;
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+  .box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 167px;
+    margin-top: 80px;
+    padding: 20px 10px;
+  }
+
+  .mail-box {
+    margin-bottom: 10px;
+  }
+
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .t {
+    height: 150px;
+  }
+
+  .tv {
+    margin: 50px 0 50px 12px;
+  }
+  .main-text {
+    margin-top: 30px;
+  }
+  .main-text p {
+    margin-left: 10px;
+    font-size: 20px;
+  }
+
+  .main2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .main2-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .image-mobile {
+    margin: 0;
+    height: 200px;
+  }
+
+  .main2-text{
+    margin: 20px 0 10px 0 ;
+  }
+
+  .main2-p1{
+    padding: 5px 7px;
+    font-size: 20px;
+    margin: 0;
+  }
+
+  .main2-p2{
+    margin: 0;
+  }
+
+ .mobile{
+  margin: 10px 0 15px 0;
+ }
+
+.main3-ist-section{
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+  margin: 0;
+}
+
+.kids{
+  height: 250px;
+}
+
+.main3-text{
+  margin: 0;
+}
+
+.main3-p1{
+  font-size: 20px;
+}
+
+.main3-p2{
+  font-size: 15px;
+}
+
+.footer-div{
+  display: flex;
+flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.first{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  margin:10px 0 10px 10px 0;
+}
+
+.second{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  margin:10px 0 10px 10px 0;
+}
+
+.third{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  margin:10px 0 10px 10px 0;
+  
+}
+
+.fourth{
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin:10px 0 10px 10px 0;
+}
+
+}
